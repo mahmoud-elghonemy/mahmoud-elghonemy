@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **DevOps | Cloud computing | Backend DEV**
 - 🔭 I’m currently training at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 -  ⚡ I competed in the Egypt Collegiate Programming Championship (ECPC) 2020 & 2021.
+- 😄 AWS certified cloud practitioner.
 -  ⚡ I enjoy Chess, Football.
 
 
