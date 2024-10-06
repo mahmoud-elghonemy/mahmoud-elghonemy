@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m trained at the [Information Technology Institute (ITI)](https://www.iti.gov.eg/iti/home)
 - 🔭  I'm working as DevOps Engineer @Vodafone Intelligent Solutions
 - ⚡ I competed in the Egypt Collegiate Programming Championship (ECPC) 2020 & 2021.
-- 😄 AWS Certified, Azure Certified 
+- 😄 CKA, AWS Certified, Azure Certified 
 - ⚡ I enjoy Chess, Football.
 
 
